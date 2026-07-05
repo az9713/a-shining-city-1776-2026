@@ -1,0 +1,62 @@
+{
+  "01-independence-hall": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-40ed-7602-a182-63eb59cd2ca2/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-40ed-7602-a182-63eb59cd2ca2",
+    "file": "film/clips/01-independence-hall.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f5df/kJNkxV8drMGZZ90-5b8FY_output.mp4"
+  },
+  "02-signing": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-4248-76b0-a53c-1a0773ad0b0a/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-4248-76b0-a53c-1a0773ad0b0a",
+    "file": "film/clips/02-signing.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f5de/LWPdsLLKYAqGWhv_8YW_M_output.mp4"
+  },
+  "03-first-flag": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-4f91-7740-aaa4-6dac8a67ad0e/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-4f91-7740-aaa4-6dac8a67ad0e",
+    "file": "film/clips/03-first-flag.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f5df/VRfTFykpZvqp0ftZbzuZv_output.mp4"
+  },
+  "04-liberty": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-5010-7342-ae41-f46b80da1367/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-5010-7342-ae41-f46b80da1367",
+    "file": "film/clips/04-liberty.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f5df/kInie9MS93WMiW_na_Z1s_output.mp4"
+  },
+  "05-built-by-hand": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-5081-7b41-8650-48c30894c5e9/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-5081-7b41-8650-48c30894c5e9",
+    "file": "film/clips/05-built-by-hand.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f5de/l6hoAtTlgkuopWeDQrdeH_output.mp4"
+  },
+  "06-main-street": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-50f8-7643-b8b8-9293de5a2c59/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-50f8-7643-b8b8-9293de5a2c59",
+    "file": "film/clips/06-main-street.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f5de/y0WCWDU2Q1RMioANVc5dl_output.mp4"
+  },
+  "09-faces": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-523a-74c3-b2ab-658bed1cddac/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-523a-74c3-b2ab-658bed1cddac",
+    "file": "film/clips/09-faces.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f5e8/bYXIwaUTcU1oHJVlRot8A_output.mp4"
+  },
+  "10-fireworks": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-52a5-73e0-8c82-b26acab807b6/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2f83-52a5-73e0-8c82-b26acab807b6",
+    "file": "film/clips/10-fireworks.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f5df/g7qf-SFNoUH90i8Wy9-IL_output.mp4"
+  },
+  "08-veteran": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2fb4-ea43-7032-a2d2-1aa462cbbbaa/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2fb4-ea43-7032-a2d2-1aa462cbbbaa",
+    "file": "film/clips/08-veteran.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f723/oCWfEjnWu5WZeybyVJNsi_output.mp4"
+  },
+  "07-moon": {
+    "status_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2fd6-3933-7903-a9d0-0182efecdc06/status",
+    "response_url": "https://queue.fal.run/fal-ai/kling-video/requests/019f2fd6-3933-7903-a9d0-0182efecdc06",
+    "file": "film/clips/07-moon.mp4",
+    "url": "https://v3b.fal.media/files/b/0aa0f7fd/3r4mgnfuHLRGV3azWy0a1_output.mp4"
+  }
+}

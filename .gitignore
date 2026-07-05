@@ -1,0 +1,11 @@
+.env
+pipeline/
+.ignore/
+film/clips/
+film/music.wav
+film/anthem.mp3
+film/__pycache__/
+film/*_job.json
+film/edit03.json
+usa250_1080p_v0.mp4
+usa250_51s_generated-score.mp4
