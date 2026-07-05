@@ -2,9 +2,13 @@
 
 A 74-second film for America's 250th birthday — made by one human and one AI in a single working session, for about $5.65 of generative-API credit.
 
-[![A Shining City: 1776–2026 — click to play](poster.png)](usa250_1080p.mp4)
+<p align="center">
+  <a href="https://az9713.github.io/a-shining-city-1776-2026/">
+    <img src="poster.png" width="480" alt="A Shining City: 1776–2026 — click to watch the film">
+  </a>
+</p>
 
-**▶ Click the poster to play** — [`usa250_1080p.mp4`](usa250_1080p.mp4) (1080p, The Star-Spangled Banner, 11 shots from the 1776 sunrise over Independence Hall to the America250 banner)
+**▶ [Click the poster — or here — to watch the film](https://az9713.github.io/a-shining-city-1776-2026/)** (1080p, The Star-Spangled Banner, 11 shots from the 1776 sunrise over Independence Hall to the America250 banner). Direct download: [`usa250_1080p.mp4`](usa250_1080p.mp4).
 
 ## The other star of the show
 
